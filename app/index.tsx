@@ -244,7 +244,7 @@ export default function HomeScreen() {
             </View>
           )}
 
-          {/* LIST */}
+          {/* f */}
           {mode === "list" && supplements.map((item) => (
             <View key={item.id} style={{
               backgroundColor: "#1f2937",
